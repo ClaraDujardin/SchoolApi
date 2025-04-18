@@ -152,3 +152,7 @@ C:\Users\clara\Desktop\SUPINFO\Matiere\SEMESTRE_2\csharp\J4\SchoolAPI\obj\Debug\
 C:\Users\clara\Desktop\SUPINFO\Matiere\SEMESTRE_2\csharp\J4\SchoolAPI\obj\Debug\net9.0\SchoolAPI.pdb
 C:\Users\clara\Desktop\SUPINFO\Matiere\SEMESTRE_2\csharp\J4\SchoolAPI\obj\Debug\net9.0\SchoolAPI.genruntimeconfig.cache
 C:\Users\clara\Desktop\SUPINFO\Matiere\SEMESTRE_2\csharp\J4\SchoolAPI\obj\Debug\net9.0\ref\SchoolAPI.dll
+C:\Users\clara\Desktop\SUPINFO\Matiere\SEMESTRE_2\csharp\J4\SchoolAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\clara\Desktop\SUPINFO\Matiere\SEMESTRE_2\csharp\J4\SchoolAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\clara\Desktop\SUPINFO\Matiere\SEMESTRE_2\csharp\J4\SchoolAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\clara\Desktop\SUPINFO\Matiere\SEMESTRE_2\csharp\J4\SchoolAPI\obj\Debug\net9.0\SchoolAPI.sourcelink.json
